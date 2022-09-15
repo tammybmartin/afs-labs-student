@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: feature-toggle
+  namespace: tmartin
+data:
+  LOCATION_FEATURE_ENABLED: "False"
+  namespace: tmartin
+data:
+  LOCATION_FEATURE_ENABLED: "False"
